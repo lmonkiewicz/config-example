@@ -1,0 +1,5 @@
+server:
+  port: 8081
+app:
+  welcome:
+    msg: "Hello user of Application A!"
