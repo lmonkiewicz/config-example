@@ -3,3 +3,6 @@ server:
 app:
   welcome:
     msg: "Hello user of First Application!"
+
+logging:
+  config: "${spring.cloud.config.uri}/${spring.application.name}/${spring.cloud.config.profile}/${spring.cloud.config.label}/logback.xml"
