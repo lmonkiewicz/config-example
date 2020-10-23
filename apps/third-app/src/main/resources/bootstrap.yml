@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: "http://localhost:8887"
+      profile: "default" # set profile to use when fetching configuration
+      label: "main" # set Label to use when fetching configuration
+  application:
+    name: "third-app"
