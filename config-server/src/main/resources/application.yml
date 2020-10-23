@@ -1,5 +1,5 @@
 server:
-  port: 8888 # default port for Spring Cloud Config Server
+  port: 8887
 spring:
   cloud:
     config:
@@ -7,7 +7,5 @@ spring:
         git:
           uri: "https://github.com/lmonkiewicz/config-server-example"
           search-paths:
-            - 'config/{application}'
+            - 'config/{application}/'
           default-label: 'main'
-          clone-on-start: true
-

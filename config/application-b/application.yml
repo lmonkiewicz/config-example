@@ -1,5 +1,0 @@
-server:
-  port: 8082
-app:
-  welcome:
-    msg: "Welcome to the Application B!"

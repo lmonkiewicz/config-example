@@ -2,4 +2,4 @@ server:
   port: 8083
 app:
   welcome:
-    msg: "Hi, App C here..."
+    msg: "Hi, Third App here..."
