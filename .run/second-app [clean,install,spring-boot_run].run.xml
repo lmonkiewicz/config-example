@@ -20,7 +20,7 @@
             <map />
           </option>
           <option name="resolveToWorkspace" value="false" />
-          <option name="workingDirPath" value="$PROJECT_DIR$/apps/second-app" />
+          <option name="workingDirPath" value="$PROJECT_DIR$/config-server-apps/second-app" />
         </MavenRunnerParameters>
       </option>
     </MavenSettings>
