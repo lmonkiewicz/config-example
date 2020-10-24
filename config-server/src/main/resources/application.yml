@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: "https://github.com/lmonkiewicz/config-server-example"
+          uri: "https://github.com/lmonkiewicz/config-example"
           search-paths:
             - 'config/{application}/'
           default-label: 'main'
